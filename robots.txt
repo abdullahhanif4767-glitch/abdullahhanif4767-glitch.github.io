@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://abdullahhanif4767-glitch.github.io/sitemap.xml
